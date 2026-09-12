@@ -1,0 +1,1 @@
+This project is a python implementation of Lattice-Boltzmann (LBM) method to solve and simulate fluid dynamics computationally
